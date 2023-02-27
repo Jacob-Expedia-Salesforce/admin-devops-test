@@ -13,4 +13,9 @@ public with sharing class SystemDebug {
         System.debug(myStr);
         System.debug(myStr);
     }
+    
+    
+    public static void fourthDebugMethod(String myStr) {
+        System.debug(myStr);
+    }
 }
