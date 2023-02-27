@@ -78,13 +78,10 @@
                 <behavior>Edit</behavior>
                 <field>AssistantPhone</field>
             </layoutItems>
-<<<<<<< HEAD
-=======
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>HasOptedOutOfFax</field>
             </layoutItems>
->>>>>>> f8d35a47eeffe4d09086d2b437e96b2308f84d29
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
     </layoutSections>
@@ -217,7 +214,6 @@
         <relatedList>RelatedOpportunityList</relatedList>
     </relatedLists>
     <relatedLists>
-<<<<<<< HEAD
         <fields>Name</fields>
         <fields>Subject</fields>
         <fields>Account</fields>
@@ -229,8 +225,6 @@
         <relatedList>RelatedGroupsListOnRecord</relatedList>
     </relatedLists>
     <relatedLists>
-=======
->>>>>>> f8d35a47eeffe4d09086d2b437e96b2308f84d29
         <fields>CASES.CASE_NUMBER</fields>
         <fields>CASES.SUBJECT</fields>
         <fields>CASES.PRIORITY</fields>
@@ -285,11 +279,7 @@
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
     <summaryLayout>
-<<<<<<< HEAD
-        <masterLabel>00hDH000002N5v4</masterLabel>
-=======
         <masterLabel>00hDS000009MawN</masterLabel>
->>>>>>> f8d35a47eeffe4d09086d2b437e96b2308f84d29
         <sizeX>4</sizeX>
         <sizeY>0</sizeY>
         <summaryLayoutStyle>Default</summaryLayoutStyle>
