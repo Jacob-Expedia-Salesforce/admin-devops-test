@@ -7,4 +7,10 @@ public with sharing class SystemDebug {
         System.debug(myStr);
         System.debug(myStr);
     }
+
+    public static void anotherRepeatDebug(String myStr) {
+        System.debug(myStr);
+        System.debug(myStr);
+        System.debug(myStr);
+    }
 }
